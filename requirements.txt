@@ -1,0 +1,12 @@
+streamlit
+streamlit-folium
+streamlit-autorefresh
+folium
+pandas
+numpy
+scikit-learn
+flask
+twilio
+python-dotenv
+requests
+openai
