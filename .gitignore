@@ -36,3 +36,8 @@ data/conflict_data.csv
 .idea/
 .DS_Store
 Thumbs.db
+
+
+# Video demos (keep mp4 local, keep gif for GitHub)
+*.mp4
+record_demo.ps1
